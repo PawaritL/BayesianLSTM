@@ -16,4 +16,4 @@ As a result, interactive visualizations have not been transferred to GitHub.
 
 Please view the notebook in Google Colab by clicking the **Open in Colab** button
 or by clicking here: 
-https://colab.research.google.com/drive/1pwMzsdRPwTO8oRVU0LwY9hs_z-ye67su
+https://colab.research.google.com/github/PawaritL/BayesianLSTM/blob/master/Energy_Consumption_Predictions_with_Bayesian_LSTMs_in_PyTorch.ipynb
